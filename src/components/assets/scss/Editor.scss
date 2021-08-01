@@ -1,0 +1,72 @@
+.wrapper {
+    // border: 1px solid red !important;
+    width: 100% !important;
+}
+.output_text {
+    // border: 1px solid red;
+    width: 100%;
+    border: 1px solid #d9deea;
+
+    background-color: #f8f8f8;
+    padding: 5px;
+    margin-top: 5%;
+    border-radius: 2px;
+}
+.textarea__custom__test__case {
+    width: 100%;
+    border: 1px solid #d3d3d3;
+    height: 70px !important;
+    width: 240px !important;
+    margin-top: 1%;
+    margin-left: 20%;
+    border-radius: 2px;
+}
+.ace-monokai .ace_print-margin {
+    display: none;
+}
+
+.console__container {
+    margin-top: 20px;
+}
+
+.editor__head {
+    background-color: #f8f8f8;
+    border: 1px solid #d9deea;
+    padding: 5px 10px;
+    div {
+        margin: 2px;
+    }
+}
+
+.editor__bottom {
+    background-color: #f8f8f8;
+    padding: 20px 10px;
+    border: 1px solid #d9deea;
+    button {
+        margin: 2px;
+    }
+}
+
+.editor__status {
+    background-color: #f8f8f8;
+    padding: 20px 10px;
+    border: 1px solid #d9deea;
+    border-radius: 2px;
+    font-size: 16px;
+    color: #6cac05;
+    font-weight: 600;
+}
+.MuiTypography-alignLeft {
+    text-align: center !important;
+    text-transform: uppercase;
+
+}
+.MuiGrid-justify-content-xs-flex-end {
+    justify-content: center !important;
+}
+.ace_editor{
+    width:98% !important;
+    margin: auto !important;
+    margin-top: 1% !important;
+    height:50vh !important; 
+}
